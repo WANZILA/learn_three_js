@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Primitives</title>
+    <style>
+      body { margin: 0; overflow: hidden; }
+    </style>
+
+ 
+  </head>
+  <body>
+    <!-- <p style="position:absolute;top:0;left:0;margin:8px;color:#fff;z-index:1">
+      Hi bor
+    </p> -->
+    <canvas id="c"></canvas>
+       <!-- import‑map must come *before* any <script type="module"> -->
+        <script type="importmap">
+          {
+            "imports": {
+              "three":       "https://cdn.jsdelivr.net/npm/three@0.159.0/build/three.module.js",
+              "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.159.0/examples/jsm/"
+            }
+          }
+          </script>
+
+    <!-- your main module -->
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>
