@@ -90,8 +90,9 @@ If you spot bugs or want to share tips, feel free to open an issue or start a di
 ## 💡 Inspiration
 
 - [threejs.org](https://threejs.org/)
-- Bruno Simon’s Three.js Journey
-- Fireship’s YouTube crash courses
+- [Chris Courses](https://www.youtube.com/watch?v=sPereCgQnWQ)
+- [Robot Bobby](https://www.youtube.com/watch?v=XPhAR1YdD6o)
+
 
 ---
 
